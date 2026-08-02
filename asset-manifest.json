@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ztrees/static/css/main.76aec624.css",
+    "main.js": "/Ztrees/static/js/main.7845e809.js",
+    "static/js/453.798bc617.chunk.js": "/Ztrees/static/js/453.798bc617.chunk.js",
+    "index.html": "/Ztrees/index.html",
+    "main.76aec624.css.map": "/Ztrees/static/css/main.76aec624.css.map",
+    "main.7845e809.js.map": "/Ztrees/static/js/main.7845e809.js.map",
+    "453.798bc617.chunk.js.map": "/Ztrees/static/js/453.798bc617.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76aec624.css",
+    "static/js/main.7845e809.js"
+  ]
+}
